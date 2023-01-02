@@ -116,3 +116,7 @@ input{
     width: 24px;
 
 }
+
+.todo-divider {
+    border-bottom: 1px solid var(--main-border-color);
+  }
